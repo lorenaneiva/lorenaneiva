@@ -1,5 +1,3 @@
-# Hi there, I'm Lorena! 👋
-
 ![Lorena Banner](github_readme_design.png)
 
 I'm building my path in software development, working with technologies such as **Laravel**, **Vue.js**, **React**, **Python**,**Node.js** and **Golang**.  
